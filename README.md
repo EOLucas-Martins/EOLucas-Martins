@@ -5,7 +5,7 @@
 • Se graduando em Análise e Desenvolvimento de Sistemas <br/>
 • Edição de videos e fotos
 
-### Estatísticas
+### Estatísticas 📊
 
 ![EOLucas-Martins GitHub stats](https://github-readme-stats.vercel.app/api?username=EOLucas-Martins&show_icons=true&theme=tokyonight)
 
