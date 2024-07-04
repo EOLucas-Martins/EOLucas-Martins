@@ -2,7 +2,7 @@
 
 ### Sobre mim 👀
 
-• Se graduando em Análise e Desenvolvimento de Sistemas
+• Se graduando em Análise e Desenvolvimento de Sistemas <br/>
 • Edição de videos e fotos
 
 ![EOLucas-Martins GitHub stats](https://github-readme-stats.vercel.app/api?username=EOLucas-Martins&show_icons=true&theme=tokyonight)
